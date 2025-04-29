@@ -11,7 +11,7 @@
 
 -  Ask me about **C++, Python, C, and MySQL**
 
--  How to reach me: **aafaqaamir01@.com**
+-  How to reach me: **aafaqaamir01@gmail.com**
 
 ---
 
